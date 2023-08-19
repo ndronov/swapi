@@ -1,0 +1,13 @@
+.link {
+  border-radius: 6px;
+}
+
+.link:focus {
+  outline: 0 none;
+  outline-offset: 0;
+  box-shadow: 0 0 0 1px #e0d8fc;
+}
+
+.link .button:focus {
+  box-shadow: none;
+}

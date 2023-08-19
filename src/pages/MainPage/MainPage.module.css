@@ -1,0 +1,5 @@
+.data-view :global(.p-dataview-emptymessage) {
+  padding: 1.5rem !important;
+  font-size: 1.5rem;
+  font-weight: 700;
+}

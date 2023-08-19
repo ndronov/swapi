@@ -1,0 +1,4 @@
+.container :global(.p-fieldset-content),
+.container :global(.p-fieldset-legend) {
+  padding: 0.5rem !important;
+}
