@@ -1,0 +1,7 @@
+.error :global(.p-tooltip-text) {
+  background: var(--red-500) !important;
+}
+
+.error :global(.p-tooltip-arrow) {
+  display: none;
+}
